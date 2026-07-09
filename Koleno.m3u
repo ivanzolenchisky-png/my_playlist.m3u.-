@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1TV.ru" tvg-logo="https://live.fanmingming.cn/tv/1TV.png" group-title="Россия",Первый канал
+https://edge1.1tv.ru/1tv/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-logo="https://live.fanmingming.cn/tv/Russia1.png" group-title="Россия",Россия 1
+http://ott-cdn.ucom.am/2/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://live.fanmingming.cn/tv/NTV.png" group-title="Россия",НТВ
+http://ott-cdn.ucom.am/3/index.m3u8
+#EXTINF:-1 tvg-id="REN-TV.ru" tvg-logo="https://live.fanmingming.cn/tv/REN.png" group-title="Россия",РЕН ТВ
+http://ott-cdn.ucom.am/7/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://live.fanmingming.cn/tv/TNT.png" group-title="Россия",ТНТ
+http://ott-cdn.ucom.am/8/index.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://live.fanmingming.cn/tv/STS.png" group-title="Россия",СТС
+http://ott-cdn.ucom.am/9/index.m3u8
+#EXTINF:-1 tvg-id="Match-TV.ru" tvg-logo="https://live.fanmingming.cn/tv/MatchTV.png" group-title="Спорт",Матч ТВ
+http://195.88.63.226:8888/udp/239.0.2.75:1234
+#EXTINF:-1 tvg-id="Setanta-Sports.ru" tvg-logo="" group-title="Спорт",Setanta Sports 1 HD
+http://178.134.1.158:8081/foodnetwork/index.m3u8
+#EXTINF:-1 tvg-id="KHL-TV.ru" tvg-logo="" group-title="Спорт",КХЛ ТВ
+http://195.88.63.226:8888/udp/239.0.2.72:1234
+#EXTINF:-1 tvg-id="National-Geographic.ru" tvg-logo="https://live.fanmingming.cn/tv/NationalGeographic.png" group-title="Познавательные",National Geographic HD
+http://195.88.63.226:8888/udp/239.0.2.61:1234
+#EXTINF:-1 tvg-id="Discovery.ru" tvg-logo="https://live.fanmingming.cn/tv/Discovery.png" group-title="Познавательные",Discovery Channel HD
+http://195.88.63.226:8888/udp/239.0.2.62:1234
+#EXTINF:-1 tvg-id="AnimalPlanet.ru" tvg-logo="" group-title="Познавательные",Animal Planet HD
+http://195.88.63.226:8888/udp/239.0.2.63:1234
+#EXTINF:-1 tvg-id="History.ru" tvg-logo="" group-title="Познавательные",History Channel HD
+http://195.88.63.226:8888/udp/239.0.2.64:1234
+#EXTINF:-1 tvg-id="Nauka2.ru" tvg-logo="" group-title="Познавательные",Наука 2.0
+http://195.88.63.226:8888/udp/239.0.2.66:1234
+#EXTINF:-1 tvg-id="CNN.ru" tvg-logo="https://live.fanmingming.cn/tv/CNN.png" group-title="Новости",CNN International
+http://195.88.63.226:8888/udp/239.0.2.11:1234
+#EXTINF:-1 tvg-id="BBCNews.ru" tvg-logo="https://live.fanmingming.cn/tv/BBCNews.png" group-title="Новости",BBC News
+http://195.88.63.226:8888/udp/239.0.2.12:1234
+#EXTINF:-1 tvg-id="Eurosport.ru" tvg-logo="https://live.fanmingming.cn/tv/EuroSport.png" group-title="Спорт",Eurosport 1
+http://195.88.63.226:8888/udp/239.0.2.70:1234
+#EXTINF:-1 tvg-id="CartoonNetwork.ru" tvg-logo="https://live.fanmingming.cn/tv/CartoonNetwork.png" group-title="Детские",Cartoon Network
+http://195.88.63.226:8888/udp/239.0.2.90:1234
+#EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-logo="https://live.fanmingming.cn/tv/Nickelodeon.png" group-title="Детские",Nickelodeon
+http://195.88.63.226:8888/udp/239.0.2.91:1234
