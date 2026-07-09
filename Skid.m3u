@@ -1,0 +1,20 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
+#PLAYLIST:Собственный Плейлист
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://raw.githubusercontent.com/Polysoft-Studio/TV-Logos/main/C/Channel_One_Russia.png" group-title="Общие",Первый канал
+https://mhd.1tv.ru/ich1/mono.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://raw.githubusercontent.com/Polysoft-Studio/TV-Logos/main/M/Match_TV.png" group-title="Спорт",Матч ТВ
+https://matchtv.ru/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="europa_plus_tv" tvg-logo="https://iptv-org.github.io/logos/channels/EuropaPlusTV.png" group-title="Музыка",Европа Плюс ТВ
+http://ep.cdnvideo.ru/ep/eptv_main.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rbc_tv" tvg-logo="https://iptv-org.github.io/logos/channels/RBCTV.png" group-title="Новости",РБК ТВ
+https://rbctv.cdnvideo.ru/rbctv/rbctv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="muztv" tvg-logo="https://iptv-org.github.io/logos/channels/MuzTV.png" group-title="Музыка",Муз ТВ
+https://muz-tv-cdn.bonus-tv.ru/muz-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="weather_channel" tvg-logo="https://iptv-org.github.io/logos/channels/TheWeatherChannel.png" group-title="Документальные",Погода 24
+https://live.ch9.center/weather24/index.m3u8
