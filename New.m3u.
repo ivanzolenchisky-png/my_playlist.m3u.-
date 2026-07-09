@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Спорт",Окко Спорт
+http://example.com/okko_sport.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Спорт",Окко Спорт HD
+http://example.com/okko_sport_hd.m3u8
+#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://live.fanmingming.cn/tv/Okko.png" group-title="Спорт",Окко.Спорт
+https://epg.iptvx.one/EPG
+#EXTINF:-1 tvg-logo="" group-title="Спорт",Setanta Sports
+http://example.com/setanta.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Спорт",Setanta Sports +
+http://example.com/setanta_plus.m3u8
+#EXTINF:-1 tvg-id="pervy-yaroslavsky" tvg-logo="https://live.fanmingming.cn/tv/1yar.png" group-title="Региональные",Первый Ярославский
+https://cam2.yar-net.ru/1yardvr/index.m3u8?token=5558b7796ba3978c0ced65c8145d633e
