@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="Спорт",Матч ТВ
+http://31.148.48.15/Match_TV/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч ТВ (альтернатива)
+http://ottlinks.club/hls/y9nmdvbth8/3.m3u8
+#EXTINF:-1 group-title="Спорт",Матч ТВ HD (альтернатива)
+http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/535/index.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sports 1 HD
+http://178.134.1.158:8081/foodnetwork/index.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ ТВ
+http://stream01.vnet.am/Channel_131/index.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ ТВ (альтернатива)
+http://ott-cdn.ucom.am/s79/index.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+http://ott-cdn.ucom.am/17/index.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2
+http://ott-cdn.ucom.am/24/index.m3u8
+#EXTINF:-1 group-title="Спорт",NBA TV
+http://ott-cdn.ucom.am/23/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч Премьер
+http://ott-cdn.ucom.am/21/index.m3u8
