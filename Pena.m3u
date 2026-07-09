@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1 group-title="Спорт",Setanta Sports 1 HD
+http://178.134.1.158:8081/foodnetwork/index.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sports (запасной)
+http://cdn.setantasports.com/live/stream.m3u8
+#EXTINF:-1 group-title="Спорт",Матч ТВ
+http://stream4.vnet.am/Match_TV/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч ТВ (запасной)
+http://live.by/tv/match_tv.m3u8
+#EXTINF:-1 group-title="Спорт",Матч ТВ (запасной 2)
+http://ottwatch.me/stream/MatchTV
+#EXTINF:-1 group-title="Спорт",КХЛ ТВ
+http://stream1.vnet.am/Channel_131/index.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ ТВ (запасной)
+http://live.by/tv/khl_tv.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+http://ott-cdn.ucom.am/17/index.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2
+http://ott-cdn.ucom.am/24/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч Премьер
+http://ott-cdn.ucom.am/21/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч Арена
+http://ott-cdn.ucom.am/22/index.m3u8
+#EXTINF:-1 group-title="Спорт",NBA TV
+http://ott-cdn.ucom.am/23/index.m3u8
+#EXTINF:-1 group-title="Спорт",Авто Плюс
+http://ott-cdn.ucom.am/48/index.m3u8
+#EXTINF:-1 group-title="Спорт",Мото ТВ
+http://ott-cdn.ucom.am/49/index.m3u8
+#EXTINF:-1 group-title="Спорт",Extreme Sports
+http://ott-cdn.ucom.am/50/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",National Geographic HD
+http://ott-cdn.ucom.am/31/index.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic (запасной)
+http://stream1.vnet.am/Channel_135/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Channel HD
+http://ott-cdn.ucom.am/32/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery (запасной)
+http://stream1.vnet.am/Channel_136/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Animal Planet HD
+http://ott-cdn.ucom.am/33/index.m3u8
+#EXTINF:-1 group-title="Познавательные",History Channel HD
+http://ott-cdn.ucom.am/34/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat History
+http://ott-cdn.ucom.am/35/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Наука 2.0
+http://ott-cdn.ucom.am/36/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя планета
+http://ott-cdn.ucom.am/37/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Travel Channel
+http://ott-cdn.ucom.am/38/index.m3u8
+#EXTINF:-1 group-title="Познавательные",TLC
+http://ott-cdn.ucom.am/39/index.m3u8
+#EXTINF:-1 group-title="Познавательные",24 Док
+http://ott-cdn.ucom.am/40/index.m3u8
+#EXTINF:-1 group-title="Познавательные",RTG TV
+http://ott-cdn.ucom.am/41/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Explore
+http://ott-cdn.ucom.am/42/index.m3u8
+#EXTINF:-1 group-title="Познавательные",365 дней ТВ
+http://ott-cdn.ucom.am/46/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Наука и техника
+http://ott-cdn.ucom.am/51/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Умное ТВ
+http://ott-cdn.ucom.am/52/index.m3u8
+
+#EXTINF:-1 group-title="Кино",Кино ТВ HD
+http://ott-cdn.ucom.am/53/index.m3u8
+#EXTINF:-1 group-title="Кино",TV1000
+http://ott-cdn.ucom.am/54/index.m3u8
+#EXTINF:-1 group-title="Кино",Дом Кино
+http://ott-cdn.ucom.am/55/index.m3u8
+#EXTINF:-1 group-title="Кино",Amedia 1
+http://ott-cdn.ucom.am/56/index.m3u8
+#EXTINF:-1 group-title="Кино",Amedia 2
+http://ott-cdn.ucom.am/57/index.m3u8
+#EXTINF:-1 group-title="Кино",Amedia 3
+http://ott-cdn.ucom.am/58/index.m3u8
+#EXTINF:-1 group-title="Кино",Fox Life
+http://ott-cdn.ucom.am/59/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинокомедия
+http://ott-cdn.ucom.am/60/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинопремьера
+http://ott-cdn.ucom.am/61/index.m3u8
+#EXTINF:-1 group-title="Кино",Звезда
+http://ott-cdn.ucom.am/62/index.m3u8
+
+#EXTINF:-1 group-title="Музыка",MTV Россия
+http://ott-cdn.ucom.am/16/index.m3u8
+#EXTINF:-1 group-title="Музыка",Муз-ТВ
+http://ott-cdn.ucom.am/15/index.m3u8
+#EXTINF:-1 group-title="Музыка",RU.TV
+http://ott-cdn.ucom.am/63/index.m3u8
+#EXTINF:-1 group-title="Музыка",Music Box
+http://ott-cdn.ucom.am/64/index.m3u8
+#EXTINF:-1 group-title="Музыка",ТНТ Music
+http://ott-cdn.ucom.am/65/index.m3u8
+#EXTINF:-1 group-title="Музыка",Муз-ТВ (запасной)
+http://stream1.vnet.am/Channel_120/index.m3u8
+
+#EXTINF:-1 group-title="Детские",Cartoon Network
+http://ott-cdn.ucom.am/66/index.m3u8
+#EXTINF:-1 group-title="Детские",Nickelodeon
+http://ott-cdn.ucom.am/67/index.m3u8
+#EXTINF:-1 group-title="Детские",Disney Channel
+http://ott-cdn.ucom.am/68/index.m3u8
+#EXTINF:-1 group-title="Детские",Карусель
+http://ott-cdn.ucom.am/69/index.m3u8
+#EXTINF:-1 group-title="Детские",Nick Jr.
+http://ott-cdn.ucom.am/70/index.m3u8
+#EXTINF:-1 group-title="Детские",Boomerang
+http://ott-cdn.ucom.am/71/index.m3u8
+
+#EXTINF:-1 group-title="Новости",Россия 24
+http://ott-cdn.ucom.am/4/index.m3u8
+#EXTINF:-1 group-title="Новости",CNN International
+http://ott-cdn.ucom.am/25/index.m3u8
+#EXTINF:-1 group-title="Новости",BBC News
+http://ott-cdn.ucom.am/26/index.m3u8
+#EXTINF:-1 group-title="Новости",EuroNews
+http://ott-cdn.ucom.am/27/index.m3u8
+#EXTINF:-1 group-title="Новости",RT International
+http://ott-cdn.ucom.am/28/index.m3u8
+#EXTINF:-1 group-title="Новости",Мир 24
+http://ott-cdn.ucom.am/29/index.m3u8
+#EXTINF:-1 group-title="Новости",СНБ (Спутник)
+http://ott-cdn.ucom.am/30/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",Первый Ярославский
+https://cam2.yar-net.ru/1yardvr/index.m3u8?token=5558b7796ba3978c0ced65c8145d633e
