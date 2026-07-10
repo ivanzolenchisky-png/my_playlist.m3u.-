@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1 group-title="Спорт",Матч ТВ
+http://195.88.63.226:8888/udp/239.0.2.75:1234
+#EXTINF:-1 group-title="Спорт",Матч ТВ (запасной)
+http://91.209.207.121:8080/udp/239.0.2.75:1234
+#EXTINF:-1 group-title="Спорт",Матч Премьер
+http://195.88.63.226:8888/udp/239.0.2.76:1234
+#EXTINF:-1 group-title="Спорт",Матч Арена
+http://195.88.63.226:8888/udp/239.0.2.77:1234
+#EXTINF:-1 group-title="Спорт",Матч Игра
+http://195.88.63.226:8888/udp/239.0.2.78:1234
+#EXTINF:-1 group-title="Спорт",Матч Боец
+http://195.88.63.226:8888/udp/239.0.2.79:1234
+#EXTINF:-1 group-title="Спорт",Матч Страна
+http://195.88.63.226:8888/udp/239.0.2.80:1234
+#EXTINF:-1 group-title="Спорт",Setanta Sports 1 HD
+http://178.134.1.158:8081/foodnetwork/index.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ ТВ
+http://195.88.63.226:8888/udp/239.0.2.72:1234
+#EXTINF:-1 group-title="Спорт",КХЛ ТВ (запасной)
+http://91.209.207.121:8080/udp/239.0.2.72:1234
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+http://195.88.63.226:8888/udp/239.0.2.70:1234
+#EXTINF:-1 group-title="Спорт",Eurosport 2
+http://195.88.63.226:8888/udp/239.0.2.71:1234
+#EXTINF:-1 group-title="Спорт",NBA TV
+http://195.88.63.226:8888/udp/239.0.2.73:1234
+#EXTINF:-1 group-title="Спорт",Бокс ТВ
+http://193.25.8.59:8000/box
+#EXTINF:-1 group-title="Спорт",MMA-TV
+http://5.188.159.128:8070/mmatv/index.m3u8
+#EXTINF:-1 group-title="Спорт",UFC TV
+http://ufc.global/stream.m3u8
+#EXTINF:-1 group-title="Спорт",Extreme Sports
+http://195.88.63.226:8888/udp/239.0.2.85:1234
+#EXTINF:-1 group-title="Спорт",Авто Плюс
+http://195.88.63.226:8888/udp/239.0.2.86:1234
+#EXTINF:-1 group-title="Спорт",Мото ТВ
+http://195.88.63.226:8888/udp/239.0.2.87:1234
+
+#EXTINF:-1 group-title="Познавательные",National Geographic HD
+http://195.88.63.226:8888/udp/239.0.2.61:1234
+#EXTINF:-1 group-title="Познавательные",Discovery Channel HD
+http://195.88.63.226:8888/udp/239.0.2.62:1234
+#EXTINF:-1 group-title="Познавательные",Animal Planet HD
+http://195.88.63.226:8888/udp/239.0.2.63:1234
+#EXTINF:-1 group-title="Познавательные",History Channel HD
+http://195.88.63.226:8888/udp/239.0.2.64:1234
+#EXTINF:-1 group-title="Познавательные",Viasat History
+http://195.88.63.226:8888/udp/239.0.2.65:1234
+#EXTINF:-1 group-title="Познавательные",Наука 2.0
+http://195.88.63.226:8888/udp/239.0.2.66:1234
+#EXTINF:-1 group-title="Познавательные",Моя планета
+http://195.88.63.226:8888/udp/239.0.2.67:1234
+#EXTINF:-1 group-title="Познавательные",Travel Channel
+http://195.88.63.226:8888/udp/239.0.2.68:1234
+#EXTINF:-1 group-title="Познавательные",TLC
+http://195.88.63.226:8888/udp/239.0.2.69:1234
+#EXTINF:-1 group-title="Познавательные",Живая планета
+http://195.88.63.226:8888/udp/239.0.2.90:1234
+#EXTINF:-1 group-title="Познавательные",365 дней ТВ
+http://195.88.63.226:8888/udp/239.0.2.91:1234
+
+#EXTINF:-1 group-title="Новости",Россия 24
+http://195.88.63.226:8888/udp/239.0.2.10:1234
+#EXTINF:-1 group-title="Новости",CNN International
+http://195.88.63.226:8888/udp/239.0.2.11:1234
+#EXTINF:-1 group-title="Новости",BBC News
+http://195.88.63.226:8888/udp/239.0.2.12:1234
+#EXTINF:-1 group-title="Новости",EuroNews
+http://195.88.63.226:8888/udp/239.0.2.13:1234
+#EXTINF:-1 group-title="Новости",РБК
+http://195.88.63.226:8888/udp/239.0.2.14:1234
+
+#EXTINF:-1 group-title="Россия",Первый канал
+http://195.88.63.226:8888/udp/239.0.2.1:1234
+#EXTINF:-1 group-title="Россия",Россия 1
+http://195.88.63.226:8888/udp/239.0.2.2:1234
+#EXTINF:-1 group-title="Россия",НТВ
+http://195.88.63.226:8888/udp/239.0.2.3:1234
+#EXTINF:-1 group-title="Россия",РЕН ТВ
+http://195.88.63.226:8888/udp/239.0.2.4:1234
+#EXTINF:-1 group-title="Россия",ТНТ
+http://195.88.63.226:8888/udp/239.0.2.5:1234
+#EXTINF:-1 group-title="Россия",СТС
+http://195.88.63.226:8888/udp/239.0.2.6:1234
+#EXTINF:-1 group-title="Россия",ТВ3
+http://195.88.63.226:8888/udp/239.0.2.7:1234
+#EXTINF:-1 group-title="Россия",Пятый канал
+http://195.88.63.226:8888/udp/239.0.2.8:1234
+#EXTINF:-1 group-title="Россия",ТВ Центр
+http://195.88.63.226:8888/udp/239.0.2.9:1234
+#EXTINF:-1 group-title="Россия",Звезда
+http://195.88.63.226:8888/udp/239.0.2.15:1234
+#EXTINF:-1 group-title="Россия",Мир
+http://195.88.63.226:8888/udp/239.0.2.16:1234
+#EXTINF:-1 group-title="Россия",Спас
+http://195.88.63.226:8888/udp/239.0.2.17:1234
+#EXTINF:-1 group-title="Россия",Карусель
+http://195.88.63.226:8888/udp/239.0.2.18:1234
+#EXTINF:-1 group-title="Россия",Муз-ТВ
+http://195.88.63.226:8888/udp/239.0.2.19:1234
+#EXTINF:-1 group-title="Россия",RU.TV
+http://195.88.63.226:8888/udp/239.0.2.20:1234
+
+#EXTINF:-1 group-title="Региональные",Первый Ярославский
+https://cam2.yar-net.ru/1yardvr/index.m3u8?token=5558b7796ba3978c0ced65c8145d633e
+
+#EXTINF:-1 group-title="Кино",Кино ТВ HD
+http://195.88.63.226:8888/udp/239.0.2.100:1234
+#EXTINF:-1 group-title="Кино",Киномикс HD
+http://195.88.63.226:8888/udp/239.0.2.101:1234
+#EXTINF:-1 group-title="Кино",Кинокомедия
+http://195.88.63.226:8888/udp/239.0.2.102:1234
+#EXTINF:-1 group-title="Кино",Кинопремьера
+http://195.88.63.226:8888/udp/239.0.2.103:1234
+#EXTINF:-1 group-title="Кино",Дом Кино
+http://195.88.63.226:8888/udp/239.0.2.104:1234
+#EXTINF:-1 group-title="Кино",TV1000
+http://195.88.63.226:8888/udp/239.0.2.105:1234
+#EXTINF:-1 group-title="Кино",Hollywood HD
+http://195.88.63.226:8888/udp/239.0.2.106:1234
+#EXTINF:-1 group-title="Кино",Fox Life
+http://195.88.63.226:8888/udp/239.0.2.107:1234
+#EXTINF:-1 group-title="Кино",Amedia 1
+http://195.88.63.226:8888/udp/239.0.2.108:1234
+#EXTINF:-1 group-title="Кино",Amedia 2
+http://195.88.63.226:8888/udp/239.0.2.109:1234
+
+#EXTINF:-1 group-title="Детские",Cartoon Network
+http://195.88.63.226:8888/udp/239.0.2.120:1234
+#EXTINF:-1 group-title="Детские",Nickelodeon
+http://195.88.63.226:8888/udp/239.0.2.121:1234
+#EXTINF:-1 group-title="Детские",Disney Channel
+http://195.88.63.226:8888/udp/239.0.2.122:1234
+#EXTINF:-1 group-title="Детские",Boomerang
+http://195.88.63.226:8888/udp/239.0.2.123:1234
